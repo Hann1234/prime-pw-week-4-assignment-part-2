@@ -18,3 +18,9 @@ header {
   width: 80%;
   border: 5px solid black;
 }
+
+.h3 {
+  text-align: center;
+  background-color: lightgreen;
+  color: blue;
+}
