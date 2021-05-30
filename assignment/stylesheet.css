@@ -1,0 +1,20 @@
+header {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: lightblue;
+  color: black;
+}
+
+.info {
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border: 5px solid black;
+}
