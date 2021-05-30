@@ -3,12 +3,14 @@ header {
   text-transform: uppercase;
   background-color: lightblue;
   color: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .info {
   text-align: center;
   background-color: red;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .image {
@@ -23,4 +25,5 @@ header {
   text-align: center;
   background-color: lightgreen;
   color: blue;
+  font-family: Arial, Helvetica, sans-serif;
 }
